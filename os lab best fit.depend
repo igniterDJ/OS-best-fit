@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602744165 source:/home/digvi/Documents/os lab best fit/main.c
+	<stdio.h>
+	<stdlib.h>
+
