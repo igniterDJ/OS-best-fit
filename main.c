@@ -57,13 +57,13 @@ int main()
 
         for(j=0;j<m;j++)
         {
-\            if(min==twhole[j][1])
+            if(min==twhole[j][1])
             {
                 if(twhole[j][0]==1)
                 {
                     if(whole[j][1]==0)
                     {
-\                        whole[j][0]-=process[i];
+                        whole[j][0]-=process[i];
                         whole[j][1]=1;
                         break;
                     }
